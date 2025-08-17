@@ -38,12 +38,14 @@ While I know there's a time and place to be professional, part of the reason for
 
 As a nerdy, queer neurodivergent, and as someone who's been in various positions in the software development industry, I believe it's important to embrace the parts of you that make you unique.
 
-I won't go into detail about what I mean by that in this post, as it's a bit heavy for an intro - but generally, I've found putting on a mask to fit into a corporate mould isn't a good angle. If I'm a square peg because I'm queer, or neurodivergent, or just fuckin weird, then so be it - remember, I believe in being **unapologetically yourself**\* since at the end of the day, I get the job done. And that's what matters.
+I won't go into detail about what I mean by that in this post, as it's a bit heavy for an intro - but generally, I've found putting on a mask to fit into a corporate mould isn't a good angle. If I'm a square peg because I'm queer, or neurodivergent, or just fuckin' weird, then so be it - remember, I believe in being **unapologetically yourself**\* since at the end of the day, I get the job done. And that's what matters.
 
-\* Unless you're an asshole.
+\*Unless you're an asshole.
+
+In the words of **Tyrion Lannister** - *"Never forget what you are. The rest of the world will not. Wear it like armour, and it can never be used to hurt you."*
 
 ## Identity
-I am a pansexual transgender female metalhead with ADHD, combined type. I'm also a bit of a furry, kinda.
+I am a pansexual transgender female metalhead with ADHD, combined type. I go by she/her. I'm also a bit of a furry, kinda.
 
 <div class="post-image-medium">
   <img src="/assets/img/pics/Fursona.jpg" alt="Fursona">
@@ -69,4 +71,6 @@ Lots of content where I talk about what's on my mind, what I'm working on, and o
   Jellybean as a baby. Aww, how cute!
 </div>
 
-Okay bye
+I might also add some guidance for people navigating their ADHD or gender dysphoria, among other things I feel qualified to talk about.
+
+Okay bye 
