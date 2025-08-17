@@ -9,10 +9,34 @@
 ';
 
 /* append your custom style below */
-p {
-  color: pink;
+
+h1 {
+  color:pink;
+}
+h2 {
+  color:pink;
 }
 
 .site-subtitle {
     color: pink !important;
+}
+
+.post-image-small {
+  width: 300px;
+  margin: 1em auto;
+  text-align: center;
+}
+.post-image-small img {
+  width: 100%;
+  display: block;
+}
+
+.post-image-medium {
+  width: 600px;
+  margin: 1em auto;
+  text-align: center;
+}
+.post-image-medium img {
+  width: 100%;
+  display: block;
 }
