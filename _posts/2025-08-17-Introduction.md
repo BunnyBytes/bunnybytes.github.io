@@ -36,7 +36,7 @@ I also dabble in some forms of art (3D modelling and drawing), but to be honest,
 
 While I know there's a time and place to be professional, part of the reason for me creating this website is to be **unapologetically myself**.
 
-As a nerdy, queer neurodivergent, and as someone who's been in various positions in the software development industry, I believe it's important to embrace the parts of you that make you unique.
+As a nerdy, vegan, queer neurodivergent, and as someone who's been in various positions in the software development industry, I've found that it's important to embrace the parts of you that make you unique.
 
 I won't go into detail about what I mean by that in this post, as it's a bit heavy for an intro - but generally, I've found putting on a mask to fit into a corporate mould isn't a good angle. If I'm a square peg because I'm queer, or neurodivergent, or just fuckin' weird, then so be it - remember, I believe in being **unapologetically yourself**\* since at the end of the day, I get the job done. And that's what matters.
 
