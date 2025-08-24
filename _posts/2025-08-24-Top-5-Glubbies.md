@@ -13,17 +13,16 @@ Glubbies come in all shapes and sizes, today we will be looking at the best of t
 
 <div class="post-image-medium">
   <img src="/assets/img/pics/Glubbies/OnchidellaCeltica.jpg" alt="Onchidella Celtica">
-  Image source: wikipedia
+  Image source: Wikipedia
 </div>
 
 Spiky friend
-
 
 ## Black sea hare (Aplysia vaccaria)
 
 <div class="post-image-medium">
   <img src="/assets/img/pics/Glubbies/BlackSeaHare.jpg" alt="Black sea hare">
-  Image source: wikipedia
+  <p>Image source: Wikipedia</p>
 </div>
 
 The largest sea slug species. Just look at him
@@ -32,36 +31,33 @@ The largest sea slug species. Just look at him
 
 <div class="post-image-medium">
   <img src="/assets/img/pics/Glubbies/TropicalLeatherleafSlug.gif" alt="Tropical leatherleaf slug">
-  Image source: wikipedia
+  <p>Image source: Wikipedia</p>
 </div>
 
 The OG glubby, his charm is undeniable. He's unique because he has a really narrow foot:
 
 <div class="post-image-medium">
   <img src="/assets/img/pics/Glubbies/TropicalLeatherleafSlugFoot.JPG" alt="Tropical leatherleaf slug">
-  Image source: wikipedia
+  <p>Image source: Wikipedia</p>
 </div>
-
-
 
 ## Sea sheep (Costasiella kuroshimae)
 
 <div class="post-image-medium">
   <img src="/assets/img/pics/Glubbies/SeaSheep.jpg" alt="Sea sheep">
-  Image source: wikipedia
+  <p>Image source: Wikipedia</p>
 </div>
 
 The cutest of the bunch. Look at that lil blush!
 
 I asked my friend what she thinks - she says "good".
 
-
-
 ## Sea bunny (Jorunna parva)
 
 <div class="post-image-medium">
   <img src="/assets/img/pics/Glubbies/SeaBunny.jpg" alt="Sea bunny">
-  Image source: wikipedia
+
+  <p>Image source: Wikipedia</p>
 </div>
 
 He needs no introduction. Simply the best
