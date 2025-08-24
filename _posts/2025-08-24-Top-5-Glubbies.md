@@ -7,6 +7,7 @@ tags: [snails,ramblings]
 
 # Top 5 Glubbies 🐌 
 
+Glubbies come in all shapes and sizes, today we will be looking at the best of the best, both aquatic and terrestrial.
 
 ## Onchidella celtica
 
