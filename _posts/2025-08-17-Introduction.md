@@ -7,7 +7,7 @@ tags: [about-me,ramblings]
 
 # Hello World! 🐇 
 
-I'm a software developer from the UK. My name on Github (and potentially other online platforms) and on here is BunnyBytes, but I also use the online moniker **Dizzy**. 🌸
+I'm a software developer from the UK. My name on Github (and potentially other online platforms) and on here is BunnyBytes, but I also use the online moniker **Dizzy**! 🌸
 
 The purpose of this website is to have a single place for my thoughts, projects, and other things I think are fun or cool!
 
@@ -68,7 +68,7 @@ Lots of content where I talk about what's on my mind, what I'm working on, and o
 
 <div class="post-image-small">
   <img src="/assets/img/pics/Jellybaby.jpg" alt="Jellybaby">
-  Jellybean as a baby. Aww, how cute!
+  Jellybean as a baby. A Jellybaby, if you will. How cute!
 </div>
 
 I might also add some guidance for people navigating their ADHD or gender dysphoria, among other things I feel qualified to talk about.
