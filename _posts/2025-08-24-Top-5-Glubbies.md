@@ -12,6 +12,7 @@ tags: [snails,ramblings]
 
 <div class="post-image-medium">
   <img src="/assets/img/pics/Glubbies/OnchidellaCeltica.jpg" alt="Onchidella Celtica">
+  Image source: wikipedia
 </div>
 
 Spiky friend
@@ -21,6 +22,7 @@ Spiky friend
 
 <div class="post-image-medium">
   <img src="/assets/img/pics/Glubbies/BlackSeaHare.jpg" alt="Black sea hare">
+  Image source: wikipedia
 </div>
 
 The largest sea slug species. Just look at him
@@ -29,12 +31,14 @@ The largest sea slug species. Just look at him
 
 <div class="post-image-medium">
   <img src="/assets/img/pics/Glubbies/TropicalLeatherleafSlug.gif" alt="Tropical leatherleaf slug">
+  Image source: wikipedia
 </div>
 
 The OG glubby, his charm is undeniable. He's unique because he has a really narrow foot:
 
 <div class="post-image-medium">
   <img src="/assets/img/pics/Glubbies/TropicalLeatherleafSlugFoot.JPG" alt="Tropical leatherleaf slug">
+  Image source: wikipedia
 </div>
 
 
@@ -43,6 +47,7 @@ The OG glubby, his charm is undeniable. He's unique because he has a really narr
 
 <div class="post-image-medium">
   <img src="/assets/img/pics/Glubbies/SeaSheep.jpg" alt="Sea sheep">
+  Image source: wikipedia
 </div>
 
 The cutest of the bunch. Look at that lil blush!
@@ -55,6 +60,7 @@ I asked my friend what she thinks - she says "good".
 
 <div class="post-image-medium">
   <img src="/assets/img/pics/Glubbies/SeaBunny.jpg" alt="Sea bunny">
+  Image source: wikipedia
 </div>
 
 He needs no introduction. Simply the best
